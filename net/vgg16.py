@@ -63,7 +63,7 @@ class VGG16(nn.Module):
         x = self.features(x)
         x = x.view(x.size(0), -1)
         x = self.classifier(x)
-        x = nn.LogSoftmax()(x)
+        x = nn.Softmax()(x)
         return x
 
    # def _initialize_weights(self):
@@ -87,13 +87,13 @@ class VGG16(nn.Module):
         #self.features = nn.S
 
 
-test = torch.zeros(2, 1, 228, 228)
-#print(test)
+#test = torch.zeros(2, 1, 228, 228)
 ##print(test)
-test = Variable(test)
-vgg16 = VGG16()
-#print(vgg16.forward(test))
-print(nn.LogSoftmax()(Variable(torch.Tensor([0,10,0,0]))))
+###print(test)
+#test = Variable(test)
+#vgg16 = VGG16()
+##print(vgg16.forward(test))
+#print(nn.LogSoftmax()(Variable(torch.Tensor([0,10,0,0]))))
 
 #test = torch.Tensor([1, 2, 3])
 #print(test)

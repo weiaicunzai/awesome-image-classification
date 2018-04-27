@@ -1,15 +1,20 @@
 import pandas as pd
 import numpy as np
-from skimage import 
+from skimage import io
+from skimage.transform import resize
 
 import torch
 from torch.utils.data import Dataset
-from torch.autograd import Variable
 
 
 
 
 class MNIST(Dataset):
+
+   # def _vectorized(self, label):
+   #     vector = np.zeros((1,10), dtype=np.int64)
+   #     vector[0, label] = 1
+   #     return vector
 
     def __init__(self, csv_path):
         self.dataset = pd.read_csv(csv_path)
@@ -20,10 +25,9 @@ class MNIST(Dataset):
     
     def __getitem__(self, index):
         data = self.dataset.iloc[index].values
-        print(data[1:].dtype)
-        print(type(data[1:]))
         label, image = np.split(data, [1])
-        label = Variable(torch.Tensor(label))
-        image = Variable(torch.Tensor(image).contiguous().view(-1, 1, 228, 228))
+        #label = self._vectorized(label)
+        image = np.reshape(image, (28, 28))
+        image = resize(image, (228, 228)).astype(np.float32)
         return label, image
 

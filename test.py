@@ -65,7 +65,6 @@ def prepare_examples(batch, labled=True):
 def train_batch(batch, model, criterion, optimizer):
     labels, images = prepare_examples(batch)
     log_prob_classes = model(images)
-    print(labels)
     loss = criterion(log_prob_classes, labels)
     loss.backward()
     optimizer.step()
