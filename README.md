@@ -24,7 +24,7 @@ or some papers only give the single crop results on ImageNet, but others give th
 - ConvNet: name of the covolution network
 - ImageNet top1 acc: best top1 accuracy on ImageNet 
 - ImageNet top5 acc: best top5 accuracy on ImageNet 
-- Published In: which conference or journal the paper is published in.
+- Published In: which conference or journal the paper was published in.
    
 |         ConvNet            | ImageNet top1 acc | ImageNet top5 acc |   Published In     |
 |:--------------------------:|:-----------------:|:-----------------:|:------------------:|
