@@ -11,7 +11,7 @@ A curated list of deep learning image classification papers and codes since 2014
 I believe image classification is a great start point before diving into other computer vision fields, espacially
 for begginers who know nothing about deep learning. When I started to learn computer vision, I've made a lot of mistakes, I wish someone could have told me that which paper I should start with back then. There doesn't seem to have a repository to have a list of image classification papers like [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) until now. Therefore, I decided to make a repository
 of a list of deep learning image classification papers and codes to help others. My personal advice for people who
-know nothing about deep learning, try to start with vgg, then googlenet, resnet, feel free to continue reading other listed or switch to other fields after you are finished.
+know nothing about deep learning, try to start with vgg, then googlenet, resnet, feel free to continue reading other listed papers or switch to other fields after you are finished.
 
 I also have a repository of pytorch implementation of some of the image classification networks, you can check out [here](git@github.com:weiaicunzai/pytorch-cifar.git).
 
