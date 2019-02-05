@@ -21,7 +21,7 @@ For simplicity reason, I only listed the top1 and top5 accuracy on ImageNet. Not
 is better than another when the acc is higher, cause some networks are focused on reducing the model complexity instead of accuracy,
 or some papers only give the single crop results on ImageNet, but others give the model fusion or multicrop results.
 
-- ConvNet: the name of covolutional net
+- ConvNet: name of the covolution network
 - ImageNet top1 acc: best top1 accuracy on ImageNet 
 - ImageNet top5 acc: best top5 accuracy on ImageNet 
 - Published In: which conference or journal the paper is published in.
