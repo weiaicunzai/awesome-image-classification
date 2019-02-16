@@ -17,9 +17,7 @@ I also have a repository of pytorch implementation of some of the image classifi
 
 ## Performance Table
 
-For simplicity reason, I only listed the top1 and top5 accuracy on ImageNet. Note that this does not necessarily mean one network
-is better than another when the acc is higher, cause some networks are focused on reducing the model complexity instead of accuracy,
-or some papers only give the single crop results on ImageNet, but others give the model fusion or multicrop results.
+For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet from the papers. Note that this does not necessarily mean one network is better than another when the acc is higher, cause some networks are focused on reducing the model complexity instead of improving accuracy, or some papers only give the single crop results on ImageNet, but others give the model fusion or multicrop results.
 
 - ConvNet: name of the covolution network
 - ImageNet top1 acc: best top1 accuracy on ImageNet from the Paper
@@ -280,7 +278,7 @@ Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun
 - code: [unofficial-keras : https://github.com/scheckmedia/keras-shufflenet](https://github.com/scheckmedia/keras-shufflenet)
 
 ### CondenseNet
-**CondenseNet An Efficient DenseNet using Learned Group Convolutions**  
+**CondenseNet: An Efficient DenseNet using Learned Group Convolutions**  
 Gao Huang, Shichen Liu, Laurens van der Maaten, Kilian Q. Weinberger
 - pdf: [https://arxiv.org/abs/1711.09224](https://arxiv.org/abs/1711.09224)
 - code: [official : https://github.com/ShichenLiu/CondenseNet](https://github.com/ShichenLiu/CondenseNet)
