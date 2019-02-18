@@ -13,7 +13,7 @@ for begginers who know nothing about deep learning. When I started to learn comp
 of a list of deep learning image classification papers and codes to help others. My personal advice for people who
 know nothing about deep learning, try to start with vgg, then googlenet, resnet, feel free to continue reading other listed papers or switch to other fields after you are finished.
 
-I also have a repository of pytorch implementation of some of the image classification networks, you can check out [here](https://github.com/weiaicunzai/pytorch-cifar).
+**Note: I also have a repository of pytorch implementation of some of the image classification networks, you can check out [here](https://github.com/weiaicunzai/pytorch-cifar).**
 
 ## Performance Table
 
@@ -38,7 +38,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |           RiR              |       -           |         -         |  ICLR Workshop2016 |   
 |  Stochastic Depth ResNet   |      78.02        |         -         |      ECCV2016      |   
 |           WRN              |      78.1         |       94.21       |      BMVC2016      |   
-|       squeezenet           |      60.4         |       82.5        |      arXiv2017     |   
+|       SqueezeNet           |      60.4         |       82.5        |      arXiv2017([rejected by ICLR2017](https://openreview.net/forum?id=S1xh5sYgx))     |   
 |          GeNet             |      72.13        |       90.26       |      ICCV2017      |   
 |         MetaQNN            |       -           |         -         |      ICLR2017      |   
 |        PyramidNet          |      80.8         |       95.3        |      CVPR2017      |   
@@ -148,7 +148,7 @@ Sergey Zagoruyko, Nikos Komodakis
 - code: [unofficial-keras : https://github.com/asmith26/wide_resnets_keras](https://github.com/asmith26/wide_resnets_keras)
 - code: [unofficial-pytorch : https://github.com/meliketoy/wide-resnet.pytorch](https://github.com/meliketoy/wide-resnet.pytorch)
 
-### squeezenet
+### SqueezeNet
 **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**   
 Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer
 - pdf: [https://arxiv.org/abs/1602.07360](https://arxiv.org/abs/1602.07360)
