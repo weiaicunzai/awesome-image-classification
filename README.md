@@ -166,7 +166,7 @@ Lingxi Xie, Alan Yuille
 ### MetaQNN
 **Designing Neural Network Architectures using Reinforcement Learning**   
 Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar
-- pdf: [https://arxiv.org/abs/1703.01513](https://arxiv.org/abs/1703.01513)
+- pdf: [https://arxiv.org/abs/1611.02167](https://arxiv.org/abs/1611.02167)
 - code: [official : https://github.com/bowenbaker/metaqnn](https://github.com/bowenbaker/metaqnn)
 
 ### PyramidNet
