@@ -13,7 +13,7 @@ for begginers who know nothing about deep learning. When I started to learn comp
 of a list of deep learning image classification papers and codes to help others. My personal advice for people who
 know nothing about deep learning, try to start with vgg, then googlenet, resnet, feel free to continue reading other listed papers or switch to other fields after you are finished.
 
-**Note: I also have a repository of pytorch implementation of some of the image classification networks, you can check out [here](https://github.com/weiaicunzai/pytorch-cifar).**
+**Note: I also have a repository of pytorch implementation of some of the image classification networks, you can check out [here](https://github.com/weiaicunzai/pytorch-cifar100).**
 
 ## Performance Table
 
