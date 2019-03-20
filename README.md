@@ -65,6 +65,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       ShuffleNetV2         |      81.44        |         -         |      ECCV2018      |   
 |          IGCV3             |      72.2         |         -         |      BMVC2018      |   
 |         MnasNet            |      76.13        |       92.85       |      arXiv2018     |   
+|          SKNet             |      80.60        |         -         |      arXiv2019     |   
 
 
 ## Papers&Codes
@@ -361,3 +362,9 @@ Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le
 - code: [unofficial-MxNet : https://github.com/chinakook/Mnasnet.MXNet](https://github.com/chinakook/Mnasnet.MXNet)
 - code: [unofficial-keras : https://github.com/Shathe/MNasNet-Keras-Tensorflow](https://github.com/Shathe/MNasNet-Keras-Tensorflow)
 
+
+### SKNet
+**Selective Kernel Networks**  
+Xiang Li, Wenhai Wang, Xiaolin Hu, Jian Yang
+- pdf: [https://arxiv.org/abs/1903.06586v2](https://arxiv.org/abs/1903.06586v2)
+- code: [official : https://github.com/implus/SKNet](https://github.com/implus/SKNet)
