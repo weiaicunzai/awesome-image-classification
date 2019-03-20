@@ -265,7 +265,7 @@ Zhao Zhong, Junjie Yan, Wei Wu, Jing Shao, Cheng-Lin Liu
 ### CRU-Net
 **Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks**    
 Chen Yunpeng, Jin Xiaojie, Kang Bingyi, Feng Jiashi, Yan Shuicheng
-- pdf[https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
+- pdf: [https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
 - code [official : https://github.com/cypw/CRU-Net](https://github.com/cypw/CRU-Net)
 - code [unofficial-mxnet : https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet](https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet)
 
@@ -366,5 +366,5 @@ Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le
 ### SKNet
 **Selective Kernel Networks**  
 Xiang Li, Wenhai Wang, Xiaolin Hu, Jian Yang
-- pdf: [https://arxiv.org/abs/1903.06586v2](https://arxiv.org/abs/1903.06586v2)
+- pdf: [https://arxiv.org/abs/1903.06586](https://arxiv.org/abs/1903.06586)
 - code: [official : https://github.com/implus/SKNet](https://github.com/implus/SKNet)
