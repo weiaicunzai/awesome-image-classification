@@ -69,6 +69,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |          DARTS             |      73.3         |       91.3        |      ICLR2019      |   
 |       ProxylessNAS         |      75.1         |       92.5        |      ICLR2019      |   
 |       MobileNetV3          |      75.2         |         -         |      arXiv2019     |   
+|          Res2Net           |      79.2         |       94.37       |      arXiv2019     |   
 
 
 ## Papers&Codes
@@ -365,15 +366,13 @@ Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le
 - code: [unofficial-MxNet : https://github.com/chinakook/Mnasnet.MXNet](https://github.com/chinakook/Mnasnet.MXNet)
 - code: [unofficial-keras : https://github.com/Shathe/MNasNet-Keras-Tensorflow](https://github.com/Shathe/MNasNet-Keras-Tensorflow)
 
-
-### SKNet
+### SKNet  
 **Selective Kernel Networks**  
 Xiang Li, Wenhai Wang, Xiaolin Hu, Jian Yang
 - pdf: [https://arxiv.org/abs/1903.06586](https://arxiv.org/abs/1903.06586)
 - code: [official : https://github.com/implus/SKNet](https://github.com/implus/SKNet)
 
-
-### DARTS
+### DARTS  
 **DARTS: Differentiable Architecture Search**  
 Hanxiao Liu, Karen Simonyan, Yiming Yang
 - pdf: [https://arxiv.org/abs/1806.09055](https://arxiv.org/abs/1806.09055)
@@ -381,15 +380,14 @@ Hanxiao Liu, Karen Simonyan, Yiming Yang
 - code: [unofficial-pytorch : https://github.com/khanrc/pt.darts](https://github.com/khanrc/pt.darts)
 - code: [unofficial-tensorflow : https://github.com/NeroLoh/darts-tensorflow](https://github.com/NeroLoh/darts-tensorflow)
 
-### ProxylessNAS
-**ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware**
+### ProxylessNAS  
+**ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware**   
 Han Cai, Ligeng Zhu, Song Han
 - pdf: [https://arxiv.org/abs/1812.00332](https://arxiv.org/abs/1812.00332)
 - code: [official : https://github.com/mit-han-lab/ProxylessNAS](https://github.com/mit-han-lab/ProxylessNAS)
 
-
 ### MobileNetV3
-**Searching for MobileNetV3**
+**Searching for MobileNetV3**  
 Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam
 - pdf: [https://arxiv.org/abs/1905.02244](https://arxiv.org/abs/1905.02244)
 - code: [unofficial-pytorch : https://github.com/xiaolai-sqlai/mobilenetv3](https://github.com/xiaolai-sqlai/mobilenetv3)
@@ -398,3 +396,12 @@ Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan,
 - code: [unofficial-pytorch : https://github.com/d-li14/mobilenetv3.pytorch](https://github.com/d-li14/mobilenetv3.pytorch)
 - code: [unofficial-caffe : https://github.com/jixing0415/caffe-mobilenet-v3](https://github.com/jixing0415/caffe-mobilenet-v3)
 - code: [unofficial-keras : https://github.com/xiaochus/MobileNetV3](https://github.com/xiaochus/MobileNetV3)
+
+### Res2Net
+**Res2Net: A New Multi-scale Backbone Architecture**   
+Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr
+- pdf: [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
+- code: [unofficial-pytorch : https://github.com/4uiiurz1/pytorch-res2net](https://github.com/4uiiurz1/pytorch-res2net)
+- code: [unofficial-keras : https://github.com/fupiao1998/res2net-keras](https://github.com/fupiao1998/res2net-keras)
+
+
