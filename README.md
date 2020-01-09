@@ -19,7 +19,7 @@ know nothing about deep learning, try to start with vgg, then googlenet, resnet,
 
 For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet from the papers. Note that this does not necessarily mean one network is better than another when the acc is higher, cause some networks are focused on reducing the model complexity instead of improving accuracy, or some papers only give the single crop results on ImageNet, but others give the model fusion or multicrop results.
 
-- ConvNet: name of the covolution network
+- ConvNet: name of the convolution network
 - ImageNet top1 acc: best top1 accuracy on ImageNet from the Paper
 - ImageNet top5 acc: best top5 accuracy on ImageNet from the Paper
 - Published In: which conference or journal the paper was published in.
