@@ -71,6 +71,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       MobileNetV3          |      75.2         |         -         |      CVPR2019      |
 |          Res2Net           |      79.2         |       94.37       |      PAMI2019      |
 |       EfficientNet         |      84.3         |       97.0        |      ICML2019      |
+|       FixResNeXt           |      86.4         |       98.0        |      NIPS2019      |
 
 
 ## Papers&Codes
