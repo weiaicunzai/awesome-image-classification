@@ -60,7 +60,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |         IGCV2              |      70.07        |         -         |      CVPR2018      |
 |          hier              |      79.7         |       94.8        |      ICLR2018      |
 |         PNasNet            |      82.9         |       96.2        |      ECCV2018      |
-|        AmoebaNet           |      83.9         |       96.6        |      arXiv2018     |
+|        AmoebaNet           |      83.9         |       96.6        |      AAAI2018      |
 |          SENet             |       -           |       97.749      |      CVPR2018      |
 |       ShuffleNetV2         |      81.44        |         -         |      ECCV2018      |
 |          IGCV3             |      72.2         |         -         |      BMVC2018      |
@@ -68,8 +68,8 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |          SKNet             |      80.60        |         -         |      CVPR2019      |
 |          DARTS             |      73.3         |       91.3        |      ICLR2019      |
 |       ProxylessNAS         |      75.1         |       92.5        |      ICLR2019      |
-|       MobileNetV3          |      75.2         |         -         |      arXiv2019     |
-|          Res2Net           |      79.2         |       94.37       |      arXiv2019     |
+|       MobileNetV3          |      75.2         |         -         |      CVPR2019      |
+|          Res2Net           |      79.2         |       94.37       |      PAMI2019      |
 |       EfficientNet         |      84.3         |       97.0        |      ICML2019      |
 
 
