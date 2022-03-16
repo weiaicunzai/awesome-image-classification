@@ -405,6 +405,7 @@ Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip 
 - pdf: [https://arxiv.org/abs/1904.01169](https://arxiv.org/abs/1904.01169)
 - code: [unofficial-pytorch : https://github.com/4uiiurz1/pytorch-res2net](https://github.com/4uiiurz1/pytorch-res2net)
 - code: [unofficial-keras : https://github.com/fupiao1998/res2net-keras](https://github.com/fupiao1998/res2net-keras)
+- code: [official-pytorch : https://github.com/Res2Net](https://github.com/Res2Net)
 
 ### EfficientNet
 
@@ -414,3 +415,9 @@ Mingxing Tan, Quoc V. Le
 - code: [unofficial-pytorch : https://github.com/lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - code: [official-tensorflow : https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)
 
+
+### FixResNeXt 
+**Fixing the train-test resolution discrepancy**
+Hugo Touvron, Andrea Vedaldi, Matthijs Douze, Hervé Jégou
+- pdf: [https://arxiv.org/abs/1906.06423](https://arxiv.org/abs/1906.06423)
+- code: [official-pytorch : https://github.com/facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
