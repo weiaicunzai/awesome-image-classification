@@ -53,6 +53,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |           DPN              |       79          |       94.5        |      NIPS2017      |
 |        Block-QNN           |      77.4         |       93.54       |      CVPR2018      |
 |         CRU-Net            |      79.7         |       94.7        |      IJCAI2018     |
+|       DLA                  |      75.3         |         -         |      CVPR2018      |
 |       ShuffleNet           |      75.3         |         -         |      CVPR2018      |
 |       CondenseNet          |      73.8         |       91.7        |      CVPR2018      |
 |          NasNet            |      82.7         |       96.2        |      CVPR2018      |
@@ -274,6 +275,12 @@ Chen Yunpeng, Jin Xiaojie, Kang Bingyi, Feng Jiashi, Yan Shuicheng
 - pdf: [https://arxiv.org/abs/1703.02180](https://arxiv.org/abs/1703.02180)
 - code [official : https://github.com/cypw/CRU-Net](https://github.com/cypw/CRU-Net)
 - code [unofficial-mxnet : https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet](https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet)
+
+## DLA
+**Deep Layer Aggregation**
+Fisher Yu, Dequan Wang, Evan Shelhamer, Trevor Darrell
+- pdf: [https://arxiv.org/abs/1707.06484](https://arxiv.org/abs/1707.06484)
+- code: [official-pytorch: https://github.com/ucbdrive/dla](https://github.com/ucbdrive/dla)
 
 ### ShuffleNet
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
