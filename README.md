@@ -73,6 +73,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |          Res2Net           |      79.2         |       94.37       |      PAMI2019      |
 |       EfficientNet         |      84.3         |       97.0        |      ICML2019      |
 |       FixResNeXt           |      86.4         |       98.0        |      NIPS2019      |
+|       BiT                  |      87.5         |         -         |      ECCV2020      |
 
 
 ## Papers&Codes
@@ -428,3 +429,10 @@ Mingxing Tan, Quoc V. Le
 Hugo Touvron, Andrea Vedaldi, Matthijs Douze, Hervé Jégou
 - pdf: [https://arxiv.org/abs/1906.06423](https://arxiv.org/abs/1906.06423)
 - code: [official-pytorch : https://github.com/facebookresearch/FixRes](https://github.com/facebookresearch/FixRes)
+
+
+### BiT
+**Big Transfer (BiT): General Visual Representation Learning**
+Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby
+- pdf: [https://arxiv.org/abs/1912.11370](https://arxiv.org/abs/1912.11370)
+- code: [official-tensorflow: https://github.com/google-research/big_transfer](https://github.com/google-research/big_transfer)
