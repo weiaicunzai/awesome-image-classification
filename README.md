@@ -74,6 +74,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       EfficientNet         |      84.3         |       97.0        |      ICML2019      |
 |       FixResNeXt           |      86.4         |       98.0        |      NIPS2019      |
 |       BiT                  |      87.5         |         -         |      ECCV2020      |
+|       NoisyStudent         |      88.4         |       98.7        |      CVPR2020      |
 
 
 ## Papers&Codes
@@ -436,3 +437,11 @@ Hugo Touvron, Andrea Vedaldi, Matthijs Douze, Hervé Jégou
 Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby
 - pdf: [https://arxiv.org/abs/1912.11370](https://arxiv.org/abs/1912.11370)
 - code: [official-tensorflow: https://github.com/google-research/big_transfer](https://github.com/google-research/big_transfer)
+
+
+### NoisyStudent
+**Self-training with Noisy Student improves ImageNet classification**
+Qizhe Xie, Minh-Thang Luong, Eduard Hovy, Quoc V. Le
+- pdf: [https://arxiv.org/abs/1911.04252](https://arxiv.org/abs/1911.04252)
+- code: [official-tensorflow: https://github.com/google-research/noisystudent](https://github.com/google-research/noisystudent)
+- code: [unofficial-pytorch: https://github.com/sally20921/NoisyStudent](https://github.com/sally20921/NoisyStudent)
