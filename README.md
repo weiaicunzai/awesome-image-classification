@@ -71,6 +71,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       ProxylessNAS         |      75.1         |       92.5        |      ICLR2019      |
 |       MobileNetV3          |      75.2         |         -         |      CVPR2019      |
 |          Res2Net           |      79.2         |       94.37       |      PAMI2019      |
+|       LIP-ResNet           |      79.33        |       94.6        |      ICCV2019      |
 |       EfficientNet         |      84.3         |       97.0        |      ICML2019      |
 |       FixResNeXt           |      86.4         |       98.0        |      NIPS2019      |
 |       BiT                  |      87.5         |         -         |      ECCV2020      |
@@ -415,6 +416,12 @@ Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip 
 - code: [unofficial-pytorch : https://github.com/4uiiurz1/pytorch-res2net](https://github.com/4uiiurz1/pytorch-res2net)
 - code: [unofficial-keras : https://github.com/fupiao1998/res2net-keras](https://github.com/fupiao1998/res2net-keras)
 - code: [official-pytorch : https://github.com/Res2Net](https://github.com/Res2Net)
+
+### LIP-ResNet
+**LIP: Local Importance-based Pooling**
+Ziteng Gao, Limin Wang, Gangshan Wu
+- pdf: [https://arxiv.org/abs/1908.04156](https://arxiv.org/abs/1908.04156)
+- code: [official-pytorch : https://github.com/sebgao/LIP](https://github.com/sebgao/LIP)
 
 ### EfficientNet
 
