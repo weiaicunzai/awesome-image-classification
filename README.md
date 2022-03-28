@@ -64,6 +64,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |        AmoebaNet           |      83.9         |       96.6        |      AAAI2018      |
 |          SENet             |       -           |       97.749      |      CVPR2018      |
 |       ShuffleNetV2         |      81.44        |         -         |      ECCV2018      |
+|       CBAM                 |      79.93        |         94.41     |      ECCV2018      |
 |          IGCV3             |      72.2         |         -         |      BMVC2018      |
 |         MnasNet            |      76.13        |       92.85       |      CVPR2018      |
 |          SKNet             |      80.60        |         -         |      CVPR2019      |
@@ -361,6 +362,14 @@ Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun
 - code: [unofficial-keras : https://github.com/opconty/keras-shufflenetV2](https://github.com/opconty/keras-shufflenetV2)
 - code: [unofficial-pytorch : https://github.com/Bugdragon/ShuffleNet_v2_PyTorch](https://github.com/Bugdragon/ShuffleNet_v2_PyTorch)
 - code: [unofficial-caff2: https://github.com/wolegechu/ShuffleNetV2.Caffe2](https://github.com/wolegechu/ShuffleNetV2.Caffe2)
+
+### CBAM
+CBAM: Convolutional Block Attention Module
+Sanghyun Woo, Jongchan Park, Joon-Young Lee, In So Kweon
+- pdf: [https://arxiv.org/abs/1807.06521](https://arxiv.org/abs/1807.06521)
+- code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module)
+- code: [unofficial-pytorch : https://github.com/luuuyi/CBAM.PyTorch](https://github.com/luuuyi/CBAM.PyTorch)
+
 
 ### IGCV3
 **IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks**
