@@ -369,6 +369,8 @@ Sanghyun Woo, Jongchan Park, Joon-Young Lee, In So Kweon
 - pdf: [https://arxiv.org/abs/1807.06521](https://arxiv.org/abs/1807.06521)
 - code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module)
 - code: [unofficial-pytorch : https://github.com/luuuyi/CBAM.PyTorch](https://github.com/luuuyi/CBAM.PyTorch)
+- code: [unofficial-pytorch : https://github.com/elbuco1/CBAM](https://github.com/elbuco1/CBAM)
+- code: [unofficial-keras : https://github.com/kobiso/CBAM-keras](https://github.com/kobiso/CBAM-keras)
 
 
 ### IGCV3
