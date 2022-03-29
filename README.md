@@ -66,6 +66,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       ShuffleNetV2         |      81.44        |         -         |      ECCV2018      |
 |       CBAM                 |      79.93        |         94.41     |      ECCV2018      |
 |          IGCV3             |      72.2         |         -         |      BMVC2018      |
+|          BAM               |      77.56        |       93.71       |      BMVC2018      |
 |         MnasNet            |      76.13        |       92.85       |      CVPR2018      |
 |          SKNet             |      80.60        |         -         |      CVPR2019      |
 |          DARTS             |      73.3         |       91.3        |      ICLR2019      |
@@ -380,6 +381,13 @@ Ke Sun, Mingjie Li, Dong Liu, Jingdong Wang
 - code: [official : https://github.com/homles11/IGCV3](https://github.com/homles11/IGCV3)
 - code: [unofficial-pytorch : https://github.com/xxradon/IGCV3-pytorch](https://github.com/xxradon/IGCV3-pytorch)
 - code: [unofficial-tensorflow : https://github.com/ZHANG-SHI-CHANG/IGCV3](https://github.com/ZHANG-SHI-CHANG/IGCV3)
+
+### BAM
+**BAM: Bottleneck Attention Module**
+Jongchan Park, Sanghyun Woo, Joon-Young Lee, In So Kweon
+- pdf: [https://arxiv.org/abs/1807.06514](https://arxiv.org/abs/1807.06514)
+- code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module)
+- code: [unofficial-tensorflow : https://github.com/huyz1117/BAM](https://github.com/huyz1117/BAM)
 
 ### MNasNet
 **MnasNet: Platform-Aware Neural Architecture Search for Mobile**
