@@ -79,6 +79,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       BiT                  |      87.5         |         -         |      ECCV2020      |
 |       PSConv + ResNext101  |      80.502       |       95.276      |      ECCV2020      |
 |       NoisyStudent         |      88.4         |       98.7        |      CVPR2020      |
+|       RegNet               |      79.9         |       -           |      CVPR2020      |
 
 
 ## Papers&Codes
@@ -478,3 +479,10 @@ Qizhe Xie, Minh-Thang Luong, Eduard Hovy, Quoc V. Le
 - pdf: [https://arxiv.org/abs/1911.04252](https://arxiv.org/abs/1911.04252)
 - code: [official-tensorflow: https://github.com/google-research/noisystudent](https://github.com/google-research/noisystudent)
 - code: [unofficial-pytorch: https://github.com/sally20921/NoisyStudent](https://github.com/sally20921/NoisyStudent)
+
+### RegNet
+**Designing Network Design Spaces**
+Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollár
+- pdf: [https://arxiv.org/abs/2003.13678](https://arxiv.org/abs/2003.13678)
+- code: [official-pytorch: https://github.com/facebookresearch/pycls](https://github.com/facebookresearch/pycls)
+- code: [unofficial-pytorch: https://github.com/d-li14/regnet.pytorch](https://github.com/d-li14/regnet.pytorch)
