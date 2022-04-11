@@ -82,6 +82,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       RegNet               |      79.9         |       -           |      CVPR2020      |
 |       ViT                  |      88.55        |       -           |      ICLR2021      |
 |       DeiT                 |      85.2         |       -           |      ICML2021      |
+|       PVT                  |      81.7         |       -           |      ICCV2021      |
 
 
 ## Papers&Codes
@@ -501,3 +502,9 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
 Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou
 - pdf: [https://arxiv.org/abs/2012.12877](https://arxiv.org/abs/2012.12877)
 - code: [official-pytorch: https://github.com/facebookresearch/deit](https://github.com/facebookresearch/deit)
+
+### PVT
+**Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
+Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao
+- pdf: [https://arxiv.org/abs/2102.12122](https://arxiv.org/abs/2102.12122)
+- code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT)
