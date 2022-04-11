@@ -80,7 +80,8 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       PSConv + ResNext101  |      80.502       |       95.276      |      ECCV2020      |
 |       NoisyStudent         |      88.4         |       98.7        |      CVPR2020      |
 |       RegNet               |      79.9         |       -           |      CVPR2020      |
-|       ViT                  |      88.55        |       -           |      CVPR2021      |
+|       ViT                  |      88.55        |       -           |      ICLR2021      |
+|       DeiT                 |      85.2         |       -           |      ICML2021      |
 
 
 ## Papers&Codes
@@ -493,5 +494,10 @@ Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollá
 Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
 - pdf: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
 - code: [official-tensorflow: https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
-- code: [unofficial-pytorch: git@github.com:jeonsworld/ViT-pytorch.git](git@github.com:jeonsworld/ViT-pytorch.git)
+- code: [unofficial-pytorch: https://github.com/jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
 
+### DeiT
+**Training data-efficient image transformers & distillation through attention**
+Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou
+- pdf: [https://arxiv.org/abs/2012.12877](https://arxiv.org/abs/2012.12877)
+- code: [official-pytorch: https://github.com/facebookresearch/deit](https://github.com/facebookresearch/deit)
