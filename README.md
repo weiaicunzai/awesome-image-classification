@@ -80,6 +80,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       PSConv + ResNext101  |      80.502       |       95.276      |      ECCV2020      |
 |       NoisyStudent         |      88.4         |       98.7        |      CVPR2020      |
 |       RegNet               |      79.9         |       -           |      CVPR2020      |
+|       ViT                  |      88.55        |       -           |      CVPR2021      |
 
 
 ## Papers&Codes
@@ -486,3 +487,11 @@ Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollá
 - pdf: [https://arxiv.org/abs/2003.13678](https://arxiv.org/abs/2003.13678)
 - code: [official-pytorch: https://github.com/facebookresearch/pycls](https://github.com/facebookresearch/pycls)
 - code: [unofficial-pytorch: https://github.com/d-li14/regnet.pytorch](https://github.com/d-li14/regnet.pytorch)
+
+### ViT
+**An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
+- pdf: [https://arxiv.org/abs/2010.11929](https://arxiv.org/abs/2010.11929)
+- code: [official-tensorflow: https://github.com/google-research/vision_transformer](https://github.com/google-research/vision_transformer)
+- code: [unofficial-pytorch: git@github.com:jeonsworld/ViT-pytorch.git](git@github.com:jeonsworld/ViT-pytorch.git)
+
