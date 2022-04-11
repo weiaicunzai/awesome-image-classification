@@ -80,6 +80,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       PSConv + ResNext101  |      80.502       |       95.276      |      ECCV2020      |
 |       NoisyStudent         |      88.4         |       98.7        |      CVPR2020      |
 |       RegNet               |      79.9         |       -           |      CVPR2020      |
+|       GhostNet             |      75.7         |       -           |      CVPR2020      |
 |       ViT                  |      88.55        |       -           |      ICLR2021      |
 |       DeiT                 |      85.2         |       -           |      ICML2021      |
 |       PVT                  |      81.7         |       -           |      ICCV2021      |
@@ -490,6 +491,12 @@ Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollá
 - pdf: [https://arxiv.org/abs/2003.13678](https://arxiv.org/abs/2003.13678)
 - code: [official-pytorch: https://github.com/facebookresearch/pycls](https://github.com/facebookresearch/pycls)
 - code: [unofficial-pytorch: https://github.com/d-li14/regnet.pytorch](https://github.com/d-li14/regnet.pytorch)
+
+### GhostNet
+**GhostNet: More Features from Cheap Operations**
+Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu
+- pdf: [https://arxiv.org/abs/1911.11907](https://arxiv.org/abs/1911.11907)
+- code: [official-pytorch: https://github.com/huawei-noah/ghostnet](https://github.com/huawei-noah/ghostnet.)
 
 ### ViT
 **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
