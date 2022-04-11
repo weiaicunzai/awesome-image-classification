@@ -83,6 +83,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       ViT                  |      88.55        |       -           |      ICLR2021      |
 |       DeiT                 |      85.2         |       -           |      ICML2021      |
 |       PVT                  |      81.7         |       -           |      ICCV2021      |
+|       PVTv2                |      81.7         |       -           |      CVM2022      |
 
 
 ## Papers&Codes
@@ -507,4 +508,9 @@ Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayro
 **Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
 Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao
 - pdf: [https://arxiv.org/abs/2102.12122](https://arxiv.org/abs/2102.12122)
+- code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT)
+
+### PVTv2
+**Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
+- pdf: [https://arxiv.org/abs/2106.13797](https://arxiv.org/abs/2106.13797)
 - code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT)
