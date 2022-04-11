@@ -84,7 +84,8 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       ViT                  |      88.55        |       -           |      ICLR2021      |
 |       DeiT                 |      85.2         |       -           |      ICML2021      |
 |       PVT                  |      81.7         |       -           |      ICCV2021      |
-|       PVTv2                |      81.7         |       -           |      CVM2022      |
+|       T2T-Vit              |      83.3         |       -           |      ICCV2021      |
+|       PVTv2                |      81.7         |       -           |      CVM2022       |
 
 
 ## Papers&Codes
@@ -516,6 +517,13 @@ Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayro
 Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao
 - pdf: [https://arxiv.org/abs/2102.12122](https://arxiv.org/abs/2102.12122)
 - code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT)
+
+### T2T
+**Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
+Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH Tay, Jiashi Feng, Shuicheng Yan
+- pdf: [https://arxiv.org/abs/2101.11986](https://arxiv.org/abs/2101.11986)
+- code: [https://github.com/yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)
+
 
 ### PVTv2
 **Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
