@@ -85,6 +85,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       DeiT                 |      85.2         |       -           |      ICML2021      |
 |       PVT                  |      81.7         |       -           |      ICCV2021      |
 |       T2T-Vit              |      83.3         |       -           |      ICCV2021      |
+|       DeepVit              |      80.9         |       -           |      Arvix2021     |
 |       PVTv2                |      81.7         |       -           |      CVM2022       |
 
 
@@ -522,7 +523,13 @@ Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu
 **Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH Tay, Jiashi Feng, Shuicheng Yan
 - pdf: [https://arxiv.org/abs/2101.11986](https://arxiv.org/abs/2101.11986)
-- code: [https://github.com/yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)
+- code: [official-pytorch: https://github.com/yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT)
+
+### DeepVit
+**DeepViT: Towards Deeper Vision Transformer**
+Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.
+- pdf: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
+- code: [official-pytorch: https://github.com/zhoudaquan/dvit_repo](https://github.com/zhoudaquan/dvit_repo.)
 
 
 ### PVTv2
