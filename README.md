@@ -88,6 +88,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       DeepVit              |      80.9         |       -           |      Arvix2021     |
 |       ViL                  |      83.7         |       -           |      ICCV2021      |
 |       TNT                  |      83.9         |       -           |      Arvix2021     |
+|       CViT                 |      84.1         |       -           |      ICCV2021      |
 |       PVTv2                |      81.7         |       -           |      CVM2022       |
 
 
@@ -500,7 +501,7 @@ Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollá
 **GhostNet: More Features from Cheap Operations**
 Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu
 - pdf: [https://arxiv.org/abs/1911.11907](https://arxiv.org/abs/1911.11907)
-- code: [official-pytorch: https://github.com/huawei-noah/ghostnet](https://github.com/huawei-noah/ghostnet.)
+- code: [official-pytorch: https://github.com/huawei-noah/ghostnet](https://github.com/huawei-noah/ghostnet)
 
 ### ViT
 **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
@@ -531,7 +532,7 @@ Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH 
 **DeepViT: Towards Deeper Vision Transformer**
 Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.
 - pdf: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
-- code: [official-pytorch: https://github.com/zhoudaquan/dvit_repo](https://github.com/zhoudaquan/dvit_repo.)
+- code: [official-pytorch: https://github.com/zhoudaquan/dvit_repo](https://github.com/zhoudaquan/dvit_repo)
 
 ### ViL
 **Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding**
@@ -543,8 +544,13 @@ Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfen
 **Transformer in Transformer**
 Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang
 - pdf: [https://arxiv.org/abs/2103.00112](https://arxiv.org/abs/2103.00112)
-- code: [https://github.com/huawei-noah/CV-Backbones](https://github.com/huawei-noah/CV-Backbones,)
+- code: [https://github.com/huawei-noah/CV-Backbones](https://github.com/huawei-noah/CV-Backbones)
 
+### CViT
+**CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification**
+Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda
+- pdf: [https://arxiv.org/abs/2103.14899](https://arxiv.org/abs/2103.14899)
+- code: [https://github.com/IBM/CrossViT](https://github.com/IBM/CrossViT)
 ### PVTv2
 **Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
 - pdf: [https://arxiv.org/abs/2106.13797](https://arxiv.org/abs/2106.13797)
