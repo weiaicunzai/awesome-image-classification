@@ -86,6 +86,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       PVT                  |      81.7         |       -           |      ICCV2021      |
 |       T2T-Vit              |      83.3         |       -           |      ICCV2021      |
 |       DeepVit              |      80.9         |       -           |      Arvix2021     |
+|       TNT                  |      83.9         |       -           |      Arvix2021     |
 |       PVTv2                |      81.7         |       -           |      CVM2022       |
 
 
@@ -531,6 +532,11 @@ Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang
 - pdf: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
 - code: [official-pytorch: https://github.com/zhoudaquan/dvit_repo](https://github.com/zhoudaquan/dvit_repo.)
 
+### TNT
+**Transformer in Transformer**
+Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang
+- pdf: [https://arxiv.org/abs/2103.00112](https://arxiv.org/abs/2103.00112)
+- code: [https://github.com/huawei-noah/CV-Backbones](https://github.com/huawei-noah/CV-Backbones,)
 
 ### PVTv2
 **Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
