@@ -86,6 +86,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       PVT                  |      81.7         |       -           |      ICCV2021      |
 |       T2T-Vit              |      83.3         |       -           |      ICCV2021      |
 |       DeepVit              |      80.9         |       -           |      Arvix2021     |
+|       ViL                  |      83.7         |       -           |      ICCV2021      |
 |       TNT                  |      83.9         |       -           |      Arvix2021     |
 |       PVTv2                |      81.7         |       -           |      CVM2022       |
 
@@ -531,6 +532,12 @@ Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH 
 Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.
 - pdf: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
 - code: [official-pytorch: https://github.com/zhoudaquan/dvit_repo](https://github.com/zhoudaquan/dvit_repo.)
+
+### ViL
+**Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding**
+Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao
+- pdf: [https://arxiv.org/abs/2103.15358](https://arxiv.org/abs/2103.15358)
+- code: [official-pytorch: https://github.com/microsoft/visionlongformer](https://github.com/microsoft/visionlongformer)
 
 ### TNT
 **Transformer in Transformer**
