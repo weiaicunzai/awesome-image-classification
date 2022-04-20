@@ -89,6 +89,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       ViL                  |      83.7         |       -           |      ICCV2021      |
 |       TNT                  |      83.9         |       -           |      Arvix2021     |
 |       CViT                 |      84.1         |       -           |      ICCV2021      |
+|       Twins                |      83.7         |       -           |      NIPS2021      |
 |       PVTv2                |      81.7         |       -           |      CVM2022       |
 
 
@@ -551,6 +552,12 @@ Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang
 Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda
 - pdf: [https://arxiv.org/abs/2103.14899](https://arxiv.org/abs/2103.14899)
 - code: [https://github.com/IBM/CrossViT](https://github.com/IBM/CrossViT)
+
+### Twins
+**Twins: Revisiting the Design of Spatial Attention in Vision Transformers**
+- pdf: [https://arxiv.org/abs/2104.13840](https://arxiv.org/abs/2104.13840)
+- code: [https://git.io/Twins]( https://git.io/Twins)
+
 ### PVTv2
 **Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
 - pdf: [https://arxiv.org/abs/2106.13797](https://arxiv.org/abs/2106.13797)
