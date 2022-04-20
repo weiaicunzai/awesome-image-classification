@@ -88,7 +88,9 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 |       DeepVit              |      80.9         |       -           |      Arvix2021     |
 |       ViL                  |      83.7         |       -           |      ICCV2021      |
 |       TNT                  |      83.9         |       -           |      Arvix2021     |
+|       CvT                  |      87.7         |       -           |      ICCV2021      |
 |       CViT                 |      84.1         |       -           |      ICCV2021      |
+|       Focal-T              |      84.0         |       -           |      NIPS2021      |
 |       Twins                |      83.7         |       -           |      NIPS2021      |
 |       PVTv2                |      81.7         |       -           |      CVM2022       |
 
@@ -531,7 +533,7 @@ Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH 
 
 ### DeepVit
 **DeepViT: Towards Deeper Vision Transformer**
-Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.
+Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.
 - pdf: [https://arxiv.org/abs/2103.11886](https://arxiv.org/abs/2103.11886)
 - code: [official-pytorch: https://github.com/zhoudaquan/dvit_repo](https://github.com/zhoudaquan/dvit_repo)
 
@@ -539,7 +541,7 @@ Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang
 **Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding**
 Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao
 - pdf: [https://arxiv.org/abs/2103.15358](https://arxiv.org/abs/2103.15358)
-- code: [official-pytorch: https://github.com/microsoft/visionlongformer](https://github.com/microsoft/visionlongformer)
+- code: [official-pytorch: https://github.com/microsoft/vision-longformer](https://github.com/microsoft/vision-longformer)
 
 ### TNT
 **Transformer in Transformer**
@@ -547,11 +549,23 @@ Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang
 - pdf: [https://arxiv.org/abs/2103.00112](https://arxiv.org/abs/2103.00112)
 - code: [https://github.com/huawei-noah/CV-Backbones](https://github.com/huawei-noah/CV-Backbones)
 
+### CvT
+**CvT: Introducing Convolutions to Vision Transformers**
+Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang
+- pdf: [https://arxiv.org/abs/2103.15808](https://arxiv.org/abs/2103.15808)
+- code: [https://github.com/microsoft/CvT](https://github.com/microsoft/CvT)
+
 ### CViT
 **CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification**
 Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda
 - pdf: [https://arxiv.org/abs/2103.14899](https://arxiv.org/abs/2103.14899)
 - code: [https://github.com/IBM/CrossViT](https://github.com/IBM/CrossViT)
+
+### Focal-T
+**Focal Attention for Long-Range Interactions in Vision Transformers**
+Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao
+- pdf: [https://arxiv.org/abs/2107.00641](https://arxiv.org/abs/2107.00641)
+- code: [ https://github.com/microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer)
 
 ### Twins
 **Twins: Revisiting the Design of Spatial Attention in Vision Transformers**
