@@ -6,6 +6,7 @@
 
 A curated list of deep learning image classification papers and codes since 2014, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection), [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for image classification workflow orchestration, automated vision pipeline management, and multi-agent coordination. MIT licensed.
 ## Background
 
 I believe image classification is a great start point before diving into other computer vision fields, espacially
