@@ -576,3 +576,16 @@ Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianf
 **Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
 - pdf: [https://arxiv.org/abs/2106.13797](https://arxiv.org/abs/2106.13797)
 - code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT)
+
+### Vision-Language Classification
+
+**Efficient Test-Time Prompt Tuning for Vision-Language Models (IJCV 2026)**
+- paper: [https://link.springer.com/article/10.1007/s11263-026-03019-3](https://link.springer.com/article/10.1007/s11263-026-03019-3)
+
+**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation (NeurIPS 2024)**
+- paper: [https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)
+- code: [https://github.com/MCG-NJU/AWT](https://github.com/MCG-NJU/AWT)
+
+**FreeRet: MLLMs as Training-Free Retrievers (ICML 2026)**
+- paper: [https://proceedings.mlr.press/v306/zhu26ba.html](https://proceedings.mlr.press/v306/zhu26ba.html)
+- code: [https://github.com/MCG-NJU/FreeRet](https://github.com/MCG-NJU/FreeRet)
